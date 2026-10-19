@@ -1,0 +1,7 @@
+numpy==2.2.6
+pandas==3.0.2
+pyarrow==24.0.0
+scipy==1.17.1
+tabulate==0.10.0
+datasets==4.8.4
+PyYAML==6.0.3
